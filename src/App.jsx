@@ -49,7 +49,7 @@ function App() {
       {/* Main content */}
       <div className="intro-content">
         <h1 className="intro-title">
-          <span className="title-gradient">MGA TUMINONGNONG</span>
+          <span className="title-gradient">NEXUS</span>
           <span className="title-glow">GAMING</span>
         </h1>
         
